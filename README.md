@@ -19,15 +19,15 @@ I enjoy building software that stays reliable and easy to maintain over time.
 
 ## Experience
 
-### QPSoftware — Backend / Full Stack Engineer
-**Jul 2020 – Jun 2023**
-
-Worked on backend services and full stack applications used in production environments. Involved in API development, system optimisation, deployment workflows, debugging, and reliability improvements.
-
 ### Freelance & Independent Projects
-**Jul 2023 – Present**
+**May 2023 – Present**
 
 Working on full stack applications, backend systems, automation tools, and scalable web platforms across independent and collaborative projects.
+
+### QPSoftware — Backend / Full Stack Engineer
+**Jul 2020 – Mar 2023**
+
+Worked on backend services and full stack applications used in production environments. Involved in API development, system optimisation, deployment workflows, debugging, and reliability improvements.
 
 ---
 
