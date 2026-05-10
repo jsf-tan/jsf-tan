@@ -70,8 +70,9 @@ Working on full stack applications, backend systems, automation tools, and scala
 
 ## Contact
 
-- GitHub: https://github.com/jsf-tan
 - Email: josephtan607@gmail.com
+- GitHub: https://github.com/jsf-tan
+- Portfolio: https://jsf-tan.github.io
 
 ---
 
