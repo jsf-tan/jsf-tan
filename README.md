@@ -1,70 +1,65 @@
 <div align="center">
 
-# Hi, I'm Joseph Tan 👋
-
-Senior Full Stack Developer focused on scalable backend systems, production-grade web applications, and infrastructure reliability.
+# Joseph Tan Full-Stack Engineer (Backend-focused, Freelance)
 
 </div>
 
+I build and maintain full-stack web applications, with most of my work centered around backend services, APIs, production debugging, and performance issues.
 
-Over the last few years, I’ve worked on production systems across backend services, full stack platforms, internal tools, and infrastructure-related projects.
+A lot of freelance projects already have something that hurts — slow endpoints, unstable behavior, deployment problems, database bottlenecks, or backend code nobody wants to touch anymore because changes keep breaking something else.
 
-My work is mainly focused on building reliable applications that are maintainable, scalable, and practical in real-world environments.
-
-I’m particularly interested in system architecture, backend performance, clean API design, and operational reliability.
-
-I enjoy building software that stays reliable and easy to maintain over time.
+That’s usually where I step in.
 
 ---
 
-## Experience
+## What I work on
 
-### Freelance & Independent Projects
-**May 2023 – Present**
-
-Working on full stack applications, backend systems, automation tools, and scalable web platforms across independent and collaborative projects.
-
-### QPSoftware — Backend / Full Stack Engineer
-**Jul 2020 – Mar 2023**
-
-Worked on backend services and full stack applications used in production environments. Involved in API development, system optimisation, deployment workflows, debugging, and reliability improvements.
+- Full-stack applications using React, TypeScript, Node.js, and Python  
+- Backend APIs and service logic  
+- PostgreSQL query optimization and schema cleanup  
+- Redis caching for reducing unnecessary database load  
+- Background jobs and async processing  
+- Production debugging through logs and request tracing  
+- Refactoring backend code that became risky or difficult to maintain  
 
 ---
 
-## Technical Stack
+## What I care about
 
-### Skills
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- APIs behaving consistently instead of working “most of the time”  
+- Keeping frontend state and API behavior predictable  
+- Database queries staying reasonable under heavier usage  
+- Debugging that doesn’t turn into guessing for three hours  
+- Keeping deployments boring and predictable  
 
 ---
 
-## Engineering Focus
+## How I approach projects
 
-- Backend architecture
-- Full stack development
-- API design & integration
-- Scalability & performance
-- Reliability & observability
-- Infrastructure & deployment workflows
-- System debugging
-- Maintainable software design
+I prefer applications that stay understandable when things go wrong.
+
+That usually means:
+- separating business logic from API and database layers  
+- avoiding abstractions until they solve a real problem  
+- adding caching only after identifying the actual bottleneck  
+- keeping logs readable enough to trace failures quickly  
+
+I’m generally skeptical of unnecessary complexity. I’d rather work with a straightforward application that’s easy to debug than a clever setup that becomes painful to maintain later.
 
 ---
 
-## Current Interests
+## Tech stack
 
-- Distributed systems
-- Cloud-native infrastructure
-- Observability practices
-- High-throughput backend systems
-- Platform reliability
+React, TypeScript  
+Node.js, Python  
+PostgreSQL, Redis  
+Docker, deployment workflows, CI/CD pipelines
+
+---
+
+## Current focus
+
+Building reliable full-stack applications, improving backend performance, and handling production issues without adding unnecessary complexity.
 
 ---
 
@@ -73,12 +68,3 @@ Worked on backend services and full stack applications used in production enviro
 - Email: josephtan607@gmail.com
 - GitHub: https://github.com/jsf-tan
 - Portfolio: https://jsf-tan.github.io
-
----
-
-<div align="center">
-
-Thanks for visiting.
-
-</div>
-
